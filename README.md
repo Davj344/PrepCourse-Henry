@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del prep coruse de henry
+Jesus David Jerez
+Este proyecto es una prueba
